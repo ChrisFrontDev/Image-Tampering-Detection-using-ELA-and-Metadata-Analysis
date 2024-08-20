@@ -6,6 +6,11 @@ Image forensics has witnessed significant growth in recent years, driven by adva
 You can try the live application here.\
 [Live Demo](https://imagetamperingdetection.streamlit.app/)
  
+### REQUIREMENTS
+
+- Python 3.10
+- ubuntu
+
 
 ### Running Locally
 Clone the repo<br>
